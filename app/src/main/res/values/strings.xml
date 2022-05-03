@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cronometro</string>
+        <string name="parar">Parar</string>
+        <string name="empezar">Empezar</string>
+        <string name="corriendo">Corriendo</string>
+        <string name="parado">Parado</string>
+    </resources>
